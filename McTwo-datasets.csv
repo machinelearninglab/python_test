@@ -1,0 +1,18 @@
+"ID	",Dataset,Samples,Features,Summary
+1,DLBCL,77,7129,DLBCL patients (58) and follicular lymphoma (19)
+2,Pros (Prostate),102,12625,prostate (52) and non-prostate (50)
+3,Colon,62,2000,tumour (40) and normal (22)
+4,Leuk (Leukaemia),72,7129,ALL (47) and AML (25)
+5,Mye (Myeloma),173,12625,presence (137) and absence (36) of focallesions of bone
+6,ALL1,128,12625,B-cell (95) and T-cell (33)
+7,ALL2,100,12625,Patients that did (65) and did not (35) relapse
+8,ALL3,125,12625,with (24) and without (101) multidrug resistance
+9,ALL4,93,12625,with (26) and without (67) the t(9;22) chromosome translocation
+10,CNS,60,7129,medulloblastoma survivors (39) and treatment failures (21)
+11,Lym (Lymphoma),45,4026,germinalcentre (22) and activated B-like DLBCL (23)
+12,Adeno (Adenoma),36,7457,colon adenocarcinoma (18) and normal (18)
+13,Gas (Gastric),65,22645,tumors (29) and non-malignants (36)
+14,Gas1 (Gastric1),144,22283,non-cardia (72) of gastric and normal (72)
+15,Gas2 (Gastric2),124,22283,cardia (62) of gastric and normal (62)
+16,T1D,101,54675,T1D (57) and healthy control (44)
+17,Stroke,40,54675,ischemic stroke (20) and control (20)
